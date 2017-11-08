@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+
+    <!-- App Name -->
+    <string name="app_name">SWAPI</string>
+    <!-- Title of the DetailActivity -->
+    <string name="title_activity_detail">Details</string>
+    <!-- Title of the MainActivity -->
+    <string name="title_activity_main">MainActivity</string>
+
+    <!-- Date format -->
+    <string name="format_full_friendly_date">
+        <xliff:g id="month">%1$s</xliff:g>, <xliff:g id="day">%2$s</xliff:g>
+    </string>
+
+    <!-- Shared Element Transitions -->
+    <string name="image_transition">image_transtition</string>
+    <string name="title_transition">title_transition</string>
+
+
+    <string name="introtext">It is a period of civil war.\n\nRebe an armored space\n\nstation with enough poe Empire's\n\nsinister agents, Princess\n\nLeia races home aboard her\n\nstarship, custodian of the\n\nstolen plans that can save her\n\npeople and restore\n\nfreedom to the galaxy</string>
+    <string name="intro">A long time ago, in a galaxy far,\nfar away....</string>
+
+    <string name="opening">
+        It is a period of civil war.\n
+        Rebel spaceships, striking\n
+        from a hidden base, have won\n
+        their first victory against\n
+        the evil Galactic Empire.\n\n
+        During the battle, Rebel\n
+        spies managed to steal secret\n
+        plans to the Empire\'s\n
+        ultimate weapon, the DEATH\n
+        STAR, an armored space\n
+        station with enough power to\n
+        destroy an entire planet.\n\n
+        Pursued by the Empire\'s\n
+        sinister agents, Princess\n
+        Leia races home aboard her\n
+        starship, custodian of the\n
+        stolen plan that can save\n
+        her people and restore\n
+        freedom to the galaxy....
+    </string>
+
+</resources>
